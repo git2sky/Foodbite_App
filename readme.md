@@ -1,4 +1,4 @@
-# Namaste React 🚀
+# FoodBite_App 🚀
 
 
 # Parcel
